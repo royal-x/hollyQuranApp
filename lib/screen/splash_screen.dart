@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:prcatice_1/util/constant.dart';
 import 'package:provider/provider.dart';
+import 'package:quran/util/constant.dart';
 
 import '../provider/AppLanguage.dart';
 import 'home_screeb.dart';
