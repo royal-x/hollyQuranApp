@@ -1,8 +1,8 @@
 import 'package:audio_video_progress_bar/audio_video_progress_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:just_audio/just_audio.dart';
-import 'package:prcatice_1/model/quran_model.dart';
-import 'package:prcatice_1/util/constant.dart';
+import 'package:quran/model/quran_model.dart';
+import 'package:quran/util/constant.dart';
 import 'package:rxdart/rxdart.dart';
 import 'package:shimmer/shimmer.dart';
 

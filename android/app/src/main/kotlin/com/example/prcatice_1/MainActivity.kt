@@ -1,4 +1,4 @@
-package com.example.prcatice_1
+package com.example.quran
 
 import io.flutter.embedding.android.FlutterActivity
 

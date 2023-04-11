@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:prcatice_1/provider/AppLanguage.dart';
-import 'package:prcatice_1/provider/app_localizations.dart';
-import 'package:prcatice_1/screen/splash_screen.dart';
+import 'package:quran/provider/AppLanguage.dart';
+import 'package:quran/provider/app_localizations.dart';
+import 'package:quran/screen/splash_screen.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:shared_preferences/shared_preferences.dart';

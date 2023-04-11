@@ -1,5 +1,5 @@
-name: prcatice_1
-description: A new Flutter project.
+name: quran
+description: holly Quran app.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -45,10 +45,16 @@ dependencies:
   shimmer: ^2.0.0
   flutter_localizations:
     sdk: flutter
+  
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_app_name: ^0.1.0
+
+flutter_app_name:
+  name: "Quran"
+
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is

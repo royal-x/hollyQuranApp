@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:prcatice_1/api/services_all.dart';
-import 'package:prcatice_1/model/quran_model.dart';
-import 'package:prcatice_1/provider/AppLanguage.dart';
-import 'package:prcatice_1/screen/details_page.dart';
-import 'package:prcatice_1/util/constant.dart';
+import 'package:quran/api/services_all.dart';
+import 'package:quran/model/quran_model.dart';
+import 'package:quran/provider/AppLanguage.dart';
+import 'package:quran/screen/details_page.dart';
+import 'package:quran/util/constant.dart';
 import 'package:provider/provider.dart';
 
 

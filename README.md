@@ -1,4 +1,4 @@
-# prcatice_1
+# quran
 
 A new Flutter project.
 
