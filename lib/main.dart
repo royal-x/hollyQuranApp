@@ -5,10 +5,12 @@ import 'package:quran/screen/splash_screen.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:wakelock/wakelock.dart';
 
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
+  Wakelock.enable();
    var prefs = await SharedPreferences.getInstance();
   runApp(
       ChangeNotifierProvider<AppLanguage>(create:(context)=> AppLanguage(),child: MyApp(),));
